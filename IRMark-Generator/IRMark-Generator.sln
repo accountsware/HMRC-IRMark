@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{053A6F07-70E5-43C1-B024-77434A01D4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMRC.IRMark.Generator", "HMRC.IRMark.Generator\HMRC.IRMark.Generator.csproj", "{1FE4BCA8-002C-4925-904B-6B9F2E602D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053A6F07-70E5-43C1-B024-77434A01D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053A6F07-70E5-43C1-B024-77434A01D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053A6F07-70E5-43C1-B024-77434A01D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053A6F07-70E5-43C1-B024-77434A01D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE4BCA8-002C-4925-904B-6B9F2E602D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE4BCA8-002C-4925-904B-6B9F2E602D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE4BCA8-002C-4925-904B-6B9F2E602D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE4BCA8-002C-4925-904B-6B9F2E602D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3DCD38-5538-4987-904A-3BFCCC69E33C}
+	EndGlobalSection
+EndGlobal
